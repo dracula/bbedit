@@ -5,15 +5,15 @@
 	<key>BackgroundColor</key>
 	<string>hsla(0.65, 0.26, 0.16, 1.00)</string>
 	<key>DifferenceHighlightColor</key>
-	<string>hsla(0.36, 0.72, 1.00, 1.00)</string>
+	<string>hsla(0.35, 0.54, 0.51, 1.00)</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>hsla(0.65, 0.27, 0.28, 1.00)</string>
+	<string>hsla(0.65, 0.27, 0.23, 1.00)</string>
 	<key>InvisibleOthersColor</key>
 	<string>hsla(0.99, 0.76, 0.99, 1.00)</string>
 	<key>InvisibleSpacesColor</key>
 	<string>hsla(0.00, 0.00, 0.70, 1.00)</string>
 	<key>PrimaryHighlightColor</key>
-	<string>hsla(0.65, 0.24, 0.42, 1.00)</string>
+	<string>hsla(0.65, 0.27, 0.50, 1.00)</string>
 	<key>SecondaryHighlightColor</key>
 	<string>hsla(0.65, 0.15, 0.42, 1.00)</string>
 	<key>SpellingColor</key>
@@ -117,7 +117,7 @@
 	<key>com.barebones.bblm.sgml-entity</key>
 	<string>hsla(0.09, 0.58, 1.00, 1.00)</string>
 	<key>com.barebones.bblm.sgml-tag</key>
-	<string>hsla(0.90, 0.63, 0.99, 1.00)</string>
+	<string>hsla(0.53, 0.51, 0.99, 1.00)</string>
 	<key>com.barebones.bblm.string</key>
 	<string>hsla(0.18, 0.52, 0.99, 1.00)</string>
 	<key>com.barebones.bblm.syntax-error</key>
@@ -145,7 +145,7 @@
 	<key>com.barebones.bblm.vhdl.comment-3</key>
 	<string>hsla(0.36, 0.72, 1.00, 1.00)</string>
 	<key>com.barebones.bblm.xml-empty</key>
-	<string>hsla(0.90, 0.63, 0.99, 1.00)</string>
+	<string>hsla(0.53, 0.51, 0.99, 1.00)</string>
 	<key>com.barebones.bblm.xml-pi</key>
 	<string>hsla(0.63, 0.46, 0.58, 1.00)</string>
 </dict>
