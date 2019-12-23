@@ -2,7 +2,7 @@
 
 > A dark theme for [BBEdit](http://www.barebones.com/products/bbedit/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/bbedit.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
